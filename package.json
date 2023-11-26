@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-    },
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/thinkingtester/learning-javascript.git"
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/thinkingtester/learning-javascript/issues"
   },
-  "homepage": "https://github.com/thinkingtester/learning-javascript#readme"
+  "homepage": "https://github.com/thinkingtester/learning-javascript#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
